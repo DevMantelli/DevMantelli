@@ -1,7 +1,30 @@
-### Olá visitantes 👋👋
-### Meu nome é Leonardo, atualmente sou estudante de TI e futuro formando em bacharel em Sistemas de Informação.
+### Olá Galera 👋
+### Me chamo Leonardo Mantelli, Atualmente cursando  bacharelado em Sistemas de Informação pela faculdade Descomplica e também aluno do Senac Santos no curso Técnico em informática. 
 
 - 😍Apaixonado por programação.
 - 🎓Atualmente cursando técnico em informatica no SENAC.
 - 🎓Atualmente cursando bacharelado em Sistemas de Informação.
 - 👔 Futuro desenvolvedor Front End.
+
+<div style="display: flex"><!-- Cartões -->
+  <a href="https://github.com/LeonardoMantelli">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoMantelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMantelli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<hr>
+  
+<div style="display: inline_block"><!-- linguagens -->
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+</div>
+  
+<hr>
+  
+<a href="mailto:leonardo.toreiro@gmail.com" target="_blanck"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+![Snake animation](https://github.com/LeonardoMantelli/LeonardoMantelli/blob/output/github-contribution-grid-snake.svg)
