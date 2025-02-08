@@ -1,10 +1,9 @@
 ### Olá Galera 👋
-### Me chamo Leonardo Mantelli, Atualmente cursando  bacharelado em Sistemas de Informação pela faculdade Descomplica e também aluno do Senac Santos no curso Técnico em informática. 
+### Me chamo Leonardo Mantelli, Atualmente cursando  bacharelado em Sistemas de Informação pela faculdade Descomplica e também aluno da Rocketseat.
 
 - 😍Apaixonado por programação.
-- 🎓Atualmente cursando técnico em informatica no SENAC.
 - 🎓Atualmente cursando bacharelado em Sistemas de Informação.
-- 👔 Futuro desenvolvedor Front End.
+- 👔 Futuro desenvolvedor Front-End.
 
 <div style="display: flex"><!-- Cartões -->
   <a href="https://github.com/LeonardoMantelli">
