@@ -6,7 +6,7 @@
 - 👔 Futuro desenvolvedor Front-End.
 
 <div style="display: flex"><!-- Cartões -->
-  <a href="https://github.com/LeonardoMantelli">
+  <a href="https://github.com/DevMantelli">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=LeonardoMantelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMantelli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
